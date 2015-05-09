@@ -1,0 +1,90 @@
+89
+add 1
+add 2
+add 3
+add 4
+add 5
+add 6
+add 7
+add 8
+add 9
+add 10
+deleteRange 0 0
+deleteRange 0 0
+deleteRange 0 0
+deleteRange 0 0
+deleteRange 0 0
+deleteRange 0 0
+deleteRange 0 0
+deleteRange 0 0
+deleteRange 0 0
+add 1
+add 2
+add 3
+add 4
+add 5
+add 6
+add 7
+add 8
+add 9
+add 10
+add 1
+add 2
+add 3
+add 4
+add 5
+add 6
+add 7
+add 8
+add 9
+add 10
+deleteRange 0 0
+deleteRange 0 1
+deleteRange 0 2
+deleteRange 0 3
+deleteRange 0 4
+deleteRange 0 0
+deleteRange 0 2
+add 1
+add 2
+add 3
+add 4
+add 5
+add 6
+add 7
+add 8
+add 9
+add 10
+add 1
+add 2
+add 3
+add 4
+add 5
+add 6
+add 7
+add 8
+add 9
+add 10
+deleteRange 0 20
+add 1
+add 2
+add 3
+add 4
+add 5
+add 6
+add 7
+add 8
+add 9
+add 10
+add 1
+add 2
+add 3
+add 4
+add 5
+add 6
+add 7
+add 8
+add 9
+add 10
+deleteRange 0 5
+deleteRange 0 7

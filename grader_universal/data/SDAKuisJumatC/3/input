@@ -1,0 +1,33 @@
+32
+add 11
+add 10
+add 9
+add 8
+add 7
+add 6
+add 5
+add 4
+add 3
+add 2
+add 1
+move 9 11
+move 0 11
+move 5 11
+move 7 11
+move 10 11
+move 11 12
+move 0 100
+move 100 1000
+move 11 11
+move 12 12
+move 1000 1000
+move 0 10000
+move 57 77
+move 8 9
+move 6 8
+move 1 7
+move 9 11
+move 0 11
+move 5 11
+move 7 11
+move 100 1000

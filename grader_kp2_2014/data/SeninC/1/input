@@ -1,0 +1,11 @@
+10
+add 12
+add 9
+add 6
+add 3
+add 7
+deleteRange 2 7
+deleteRange 3 1
+deleteRange 2 2
+add 5
+deleteRange 0 3

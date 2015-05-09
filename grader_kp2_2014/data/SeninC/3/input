@@ -1,0 +1,60 @@
+59
+add 0
+add 1
+add 2
+add 3
+add 4
+deleteRange 1 1
+deleteRange 1 1
+deleteRange 1 1
+add 5
+add 6
+add 7
+add 8
+deleteRange 2 4
+add 9
+add 1
+add 0
+add 2
+add 3
+add 4
+deleteRange 7 7
+deleteRange 6 6
+deleteRange 5 5
+deleteRange 4 4
+deleteRange 3 3
+deleteRange 2 2
+deleteRange 1 1
+add 5
+add 6
+add 0
+add 1
+add 2
+add 3
+add 4
+add 5
+add 6
+add 7
+add 8
+add 9
+add 1
+add 0
+add 2
+add 3
+add 4
+deleteRange 10 12
+deleteRange 11 11
+deleteRange 5 5
+deleteRange 9 9
+deleteRange 7 7
+deleteRange 8 8
+deleteRange 1 1
+deleteRange 4 4
+deleteRange 4 4
+deleteRange 4 4
+deleteRange 4 4
+deleteRange 3 3
+deleteRange 3 3
+deleteRange 2 2
+deleteRange 1 1
+add 6

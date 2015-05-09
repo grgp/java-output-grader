@@ -1,0 +1,36 @@
+35
+add 12
+add 9
+add 6
+add 3
+add 7
+add 12
+add 9
+add 6
+add 3
+add 7
+deleteRange 15 50
+deleteRange 10 20
+deleteRange 11 11
+deleteRange 10 10
+deleteRange 9 10
+deleteRange 8 10
+deleteRange 9 11
+deleteRange 8 11
+deleteRange 4 16
+deleteRange 3 12
+deleteRange 10 9
+deleteRange 10 8
+deleteRange 11 3
+deleteRange 1 0
+deleteRange 5 0
+deleteRange 9 0
+deleteRange 10 0
+deleteRange 20 9
+add 3
+add 7
+add 12
+add 9
+add 6
+deleteRange 50 50
+deleteRange 10000 10000

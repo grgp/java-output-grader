@@ -1,0 +1,28 @@
+_tutorial
+
+0) Buka folder antara senin atau jumat, nanti semuanya bakal dijalanin di folder masing2 itu
+
+0) Kalo kodenya belom dibikin, tinggal dibuat aja di .java yang sesuai. Itu udah dari template yg di scele jadi tinggal lengkapin aja.
+
+1) Kalo udah selesai, kode nya ditaroh di folder ini di .java yang sesuai (ngga perlu buat selesain semuanya kalo yg mau ditest baru satu), copy+paste aja kodenya. Ganti nama .java-nya harus persis sama nama asli .java difolder ini (contoh SDAKuisSeninA.java bukan SDA13141KPA.java)
+
+2) Kalo pake BufferedReader, replace kodenya yang biasanya
+	BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+
+replace pake: 
+	BufferedReader br = new BufferedReader(new FileReader(new File(args[0])));
+
+3) import java.io.*; di kodenya, terus di main methodnya: throws IOException, jadi:
+	public static void main(String[] args) throws IOException {
+
+4) javac *.java di folder ini
+
+5) Jalanin dari command line "java GraderYangBaik <Hari> <Soal>", contoh "java GraderYangBaik Jumat A", coba lihat screenshotnya deh biar lebih jelas
+
+6) Bisa cek detailnya dengan buka _Debug.txt, tapi jangan pake notepad bukanya krn bakalan salah
+
+p.s: Nggak tau deh bisa pake Eclipse atau nggak, harusnya sih bisa tapi satu folder ini harus dicopy ke project foldernya.
+
+p.s: Waktu yg ada belum tentu sesuai grader, jadi itu cuma buat perbandingan aja
+
+p.p.s: Belom terjamin bener bisa yaa, tapi tadi udah ada bbrp yang nyoba trus bisa =')
